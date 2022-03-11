@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rynicks
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me follow me here and we'll work smth. out!
 
 <!---
 Rynicks/Rynicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
